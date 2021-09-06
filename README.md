@@ -4,7 +4,8 @@ Template includes gitignore and gitattributes for LFS for all Unity projects.
 # Usage
 * Create a new repo from this template.
 * Clone to PC.
-* Create new project in Unity and place project files  in the `src` directory.
+* Create a new directory in the root of the repo called `src`.
+* Create new project in Unity and place project files in the `src` directory.
 * Ensure there is nothing else you want to add to `.gitignore`.
 * Commit code.
 
